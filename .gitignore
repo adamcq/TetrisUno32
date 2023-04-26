@@ -1,0 +1,11 @@
+*.c.o
+*.elf
+*.hex
+*.S.o
+*.out
+/.deps
+/.idea/*
+/.idea
+/.vscode
+.DS_Store
+.idea/workspace.xml
